@@ -1,0 +1,57 @@
+.rounded img{
+    width: 50px;
+    border-radius: 50%;
+    border: 2px solid red;
+}
+.cal img{
+    width: 50px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border: 2px solid red;
+}
+.square img{
+     width: 50px;
+     border: 2px solid red;
+}
+.circle img{
+    width: 50px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border: 2px solid red;
+
+}
+.rounded{
+    margin-top: 50px; margin-left: 50px;
+}
+.cal{
+    margin-top: 50px; margin-left: 50px;
+}
+.square{
+    margin-top: 50px; margin-left: 50px;
+}
+.circle{
+    margin-top: 50px; margin-left: 50px;
+}
+
+
+ .rounded .peace{margin-left: 300px; color: brown;
+}
+.cal .John{margin-left: 300px; color: brown;
+}
+    
+.square .Brother{margin-left: 300px; color: brown;
+}
+    
+.circle .Mark{margin-left: 300px; color: brown;}
+footer center{
+    margin-top: 30px;
+    background-color: black; color: white; padding: 20px 20px 20px;
+}
+div img{
+    width: 50%;
+    border: 2px solid red;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    
+
+}
